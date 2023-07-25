@@ -1,17 +1,12 @@
 torch
 torchvision
-robustness
 pandas
 networkx
 numpy 
 scipy
-GPUtil
 dill
-tensorboardX
-tables
 tqdm
 seaborn
 jupyter
-cox
 sklearn
 pillow
